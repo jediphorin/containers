@@ -8,5 +8,5 @@ make test - для пересборки и запуска тестов;
 
 проверка утечек памяти:<br>
 linux - make vg<br>
-macos - make leaks
+macos - make leaks<br>
 .
