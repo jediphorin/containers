@@ -6,7 +6,7 @@ make run - запуск тестов;
 
 make test - для пересборки и запуска тестов;
 
-проверка утечек памяти:
-linux: make vg
-macos: make leaks
+проверка утечек памяти:<br>
+linux - make vg<br>
+macos - make leaks
 .
